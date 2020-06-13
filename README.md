@@ -1,1 +1,1 @@
-- PHP version 5.3.3
+Find your details on the not-so-corrupt ID website :)
